@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TV Tracker</string>
+    <string name="tab_text_1">📺</string>
+    <string name="tab_text_2">🎬</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_info">Information</string>
+    <string name="fab_plus">+</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
